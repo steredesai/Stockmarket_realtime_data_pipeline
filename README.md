@@ -1,7 +1,5 @@
 # Stockmarket_realtime_data_pipeline
 
-# Stock Market Data Pipeline with Kafka
-
 This repository contains two Python scripts designed to work together to fetch, produce, and consume real-time stock market data using Apache Kafka.
 
 ## Features
